@@ -1,9 +1,17 @@
 # Spark
+### Spark Practise exercies done as a part of assignment for a Apache Spark-Python course over Udemy<br />
 
-Spark Programming _ PYSpark
+Spark Programming _ PYSpark <br />
 
-In this particular Git folder, There are numerous spark program, which were done for the purpose of learning Spark programmming.
+#### System Config Used
+1. Mac OS Sierra <br />
+2. 8Gb RAM<br />
 
-Challenges (MAC): 1.Java version: JDK1.8 (1.9 was giving errors when running spark program) 2.Python version : 3.5 (3.6 gives Py4j error) 3.Use Jupyter Lab instead of Jupyter Notebook (JN gives error which got self resolved in JL) 4.Create another virtual env
+
+##### System Software Configuration
+1. JDK 1.8 : JDK 1.9 throws exception <br />
+2. JupyterLab instead jupyter notebook : jupyter notebook throws Py4j error<br />
+3.Python version 3.5 :: 3.6 throws error while binding to java<br />
+
 
 The codes are motivated from a udemy course which I'm undertaking for learning spark programming.
